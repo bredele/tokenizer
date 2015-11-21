@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/bredele/tokenizer/issues"
   },
-  "homepage": "https://github.com/bredele/tokenizer"
+  "homepage": "https://github.com/bredele/tokenizer",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
 }
